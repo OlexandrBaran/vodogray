@@ -1,11 +1,11 @@
  <div class="row" style="display: flex; justify-content: center;">
-        <ul  class="nav nav-pills nav-main nav-onepage">
+        <ul  class="nav nav-pills nav-main nav-one-page">
 
             <li class="active"><!-- HOME -->
 
-                <a href="#home">
+                <a href="#disco">
 
-                    HOME
+                    Дискотека
 
                 </a>
 
@@ -13,9 +13,9 @@
 
             <li><!-- FEATURES -->
 
-                <a href="#features">
+                <a href="#pool">
 
-                    FEATURES
+                    Басейн
 
                 </a>
 
@@ -23,9 +23,9 @@
 
             <li><!-- PRICING -->
 
-                <a href="#pricing">
+                <a href="#saltroom">
 
-                    PRICING
+                    Соляна кімната
 
                 </a>
 

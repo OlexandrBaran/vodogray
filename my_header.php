@@ -32,9 +32,9 @@
             </ul>
             <!--fb and tel-->
 
-            <a class="logo pull-left" href="my_index.php">
+            <a class="logo pull-left" href="index.php">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--                <a href="my_index.php" class="inline-block"><h1>Vodogray</h1></a>-->
+<!--                <a href="index.php" class="inline-block"><h1>Vodogray</h1></a>-->
                 <img src="assets/imgs/logo.png" alt="" />
 
             </a>
@@ -81,7 +81,7 @@
 
                         <li><!-- Головна -->
 
-                            <a href="my_index.php">
+                            <a href="index.php">
 
                                 Головна
 
